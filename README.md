@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/pluginmast
 - Dalamud API：`15`
 - Triad Buddy：`1.15.0.1`
 - 源码：[J1ntttao/FFXIV_TriadBuddyAuto](https://github.com/J1ntttao/FFXIV_TriadBuddyAuto)
-- Bug 反馈：`2379873505@163.com`
+- Bug 反馈：`qq2379873505@163.com`
 
 主要功能：
 
