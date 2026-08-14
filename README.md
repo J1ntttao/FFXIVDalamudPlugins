@@ -7,7 +7,7 @@
 在 Dalamud 的自定义插件仓库中添加：
 
 ```text
-https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/main/pluginmaster.json
+https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/pluginmaster.json
 ```
 
 ## 添加方法
@@ -61,13 +61,13 @@ FFXIVDalamudPlugins/
 插件索引：
 
 ```text
-https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/main/pluginmaster.json
+https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/pluginmaster.json
 ```
 
 Triad Buddy Auto 安装包：
 
 ```text
-https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/main/plugins/TriadBuddyAuto/latest.zip
+https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/plugins/TriadBuddyAuto/latest.zip
 ```
 
 ## 发布更新
@@ -85,7 +85,7 @@ https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/main/plugins/Tria
 ```powershell
 git add README.md pluginmaster.json plugins/TriadBuddyAuto/latest.zip
 git commit -m "release: Triad Buddy Auto 0.2.0.0"
-git push origin main
+git push origin master
 ```
 
 ## 免责声明
