@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/pluginmast
 
 如果插件源无法加载，请先在浏览器中打开插件源地址，确认能够正常显示 JSON 内容。
 
-## 当前插件
+## 仓库现有插件
 
 ### Triad Buddy Auto
 
@@ -68,24 +68,6 @@ Triad Buddy Auto 安装包：
 
 ```text
 https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/plugins/TriadBuddyAuto/latest.zip
-```
-
-## 发布更新
-
-更新插件时需要同时完成以下操作：
-
-1. 在插件源码项目中提升程序集版本。
-2. 执行 Release 编译和测试。
-3. 使用新产物替换 `plugins/TriadBuddyAuto/latest.zip`。
-4. 将 `pluginmaster.json` 中的 `AssemblyVersion` 更新为相同版本。
-5. 提交并推送插件索引和安装包。
-
-示例：
-
-```powershell
-git add README.md pluginmaster.json plugins/TriadBuddyAuto/latest.zip
-git commit -m "release: Triad Buddy Auto 0.2.0.0"
-git push origin master
 ```
 
 ## 免责声明
