@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/pluginmast
 
 ### Triad Buddy Auto
 
-- 当前版本：`0.2.0.0`
+- 当前版本：`0.3.0.0`
 - 作者：`J1ntttao`
 - Dalamud API：`15`
 - Triad Buddy：`1.15.0.1`
@@ -39,6 +39,7 @@ https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/pluginmast
 - 连续再战时自动点击“再战”和“挑战”。
 - 在连续再战的选卡阶段自动选择最优卡组。
 - 支持观察模式、动作稳定检查和 `Pause` 紧急停止。
+- 支持显示累计下载请求数和用户自愿参与的匿名在线人数。
 
 插件不会主动寻找 NPC 或发起第一次挑战，仅支持 NPC 幻卡对局。
 
@@ -48,6 +49,8 @@ https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/pluginmast
 FFXIVDalamudPlugins/
 ├─ pluginmaster.json
 ├─ README.md
+├─ statistics-server/
+│  └─ README.md
 └─ plugins/
    └─ TriadBuddyAuto/
       └─ latest.zip
@@ -55,6 +58,7 @@ FFXIVDalamudPlugins/
 
 - `pluginmaster.json`：Dalamud 读取的插件索引。
 - `plugins/<插件名>/latest.zip`：插件安装包。
+- `statistics-server/`：部署在 ARM64 Ubuntu 开发板上的下载量与匿名在线人数统计服务；部署及接入方式见目录内 README。
 
 ## 直接链接
 
@@ -67,7 +71,7 @@ https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/pluginmast
 Triad Buddy Auto 安装包：
 
 ```text
-https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/plugins/TriadBuddyAuto/latest.zip
+https://stats.j1ntao.icu/download?channel=install
 ```
 
 ## 免责声明

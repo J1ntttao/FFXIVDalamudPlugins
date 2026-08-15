@@ -5,14 +5,14 @@
     "Punchline": "自动执行 Triad Buddy 的 NPC 幻卡推荐。",
     "Description": "读取 Triad Buddy 的求解结果并自动落牌，在连续再战流程中自动点击再战、挑战并选择最优卡组。",
     "InternalName": "TriadBuddyAuto",
-    "AssemblyVersion": "0.2.0.0",
+    "AssemblyVersion": "0.3.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "RepoUrl": "https://github.com/J1ntttao/FFXIV_TriadBuddyAuto",
+    "RepoUrl": "https://github.com/J1ntttao/FFXIVDalamudPlugins",
     "IconUrl": "https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/plugins/TriadBuddyAuto/icon.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/plugins/TriadBuddyAuto/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/plugins/TriadBuddyAuto/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/plugins/TriadBuddyAuto/latest.zip",
+    "DownloadLinkInstall": "https://stats.j1ntao.icu/download?channel=install",
+    "DownloadLinkUpdate": "https://stats.j1ntao.icu/download?channel=update",
+    "DownloadLinkTesting": "https://stats.j1ntao.icu/download?channel=testing",
     "FeedbackMessage": "Bug 反馈：qq2379873505@163.com",
     "AcceptsFeedback": true,
     "IsHide": false,
@@ -20,7 +20,9 @@
     "Tags": [
       "triple triad",
       "triad buddy",
-      "automation"
+      "automation",
+	  "自动幻卡",
+	  "万卡归宗"
     ]
   }
 ]
