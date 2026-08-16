@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/pluginmast
 
 ### Triad Buddy Auto
 
-- 当前版本：`1.0.0.4`
+- 当前版本：`1.0.0.5`
 - 作者：`J1ntttao`
 - Dalamud API：`15`
 - Triad Buddy：`1.15.0.1`
