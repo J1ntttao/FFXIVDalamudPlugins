@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/pluginmast
 
 ### Triad Buddy Auto
 
-- 当前版本：`1.0.0.1`
+- 当前版本：`1.0.0.2`
 - 作者：`J1ntttao`
 - Dalamud API：`15`
 - Triad Buddy：`1.15.0.1`
@@ -42,6 +42,12 @@ https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/pluginmast
 - 支持显示累计下载请求数和用户自愿参与的匿名在线人数。
 
 插件不会主动寻找 NPC 或发起第一次挑战，仅支持 NPC 幻卡对局。
+
+#### v1.0.0.2 更新日志（2026-08-16）
+
+- 修复自动落牌提交后玩家开始拖牌时仍可能发生的游戏原生访问冲突。
+- 同时检查鼠标按键与游戏拖放管理器状态，手动操作结束后增加 500 毫秒安全冷却。
+- 自动提交前复检手动交互，提交后立即锁定为等待态，阻止新的拖牌入口。
 
 #### v1.0.0.1 更新日志（2026-08-16）
 
