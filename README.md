@@ -9,7 +9,6 @@
 ```text
 https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/pluginmaster.json
 ```
-
 ## 添加方法
 
 1. 在游戏中输入 `/xlsettings` 打开 Dalamud 设置。
@@ -42,37 +41,6 @@ https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/pluginmast
 - 支持显示累计下载请求数和用户自愿参与的匿名在线人数。
 
 插件不会主动寻找 NPC 或发起第一次挑战，仅支持 NPC 幻卡对局。
-
-## 仓库结构
-
-```text
-FFXIVDalamudPlugins/
-├─ pluginmaster.json
-├─ README.md
-├─ statistics-server/
-│  └─ README.md
-└─ plugins/
-   └─ TriadBuddyAuto/
-      └─ latest.zip
-```
-
-- `pluginmaster.json`：Dalamud 读取的插件索引。
-- `plugins/<插件名>/latest.zip`：插件安装包。
-- `statistics-server/`：部署在 ARM64 Ubuntu 开发板上的下载量与匿名在线人数统计服务；部署及接入方式见目录内 README。
-
-## 直接链接
-
-插件索引：
-
-```text
-https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/pluginmaster.json
-```
-
-Triad Buddy Auto 安装包：
-
-```text
-https://stats.j1ntao.icu/download?channel=install
-```
 
 ## 免责声明
 
