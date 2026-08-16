@@ -5,7 +5,7 @@
     "Punchline": "自动执行 Triad Buddy 的 NPC 幻卡推荐。",
     "Description": "读取 Triad Buddy 的求解结果并自动落牌，在连续再战流程中自动点击再战、挑战并选择最优卡组。插件加载后自动参与不含角色、账号或机器信息的匿名在线人数统计。",
     "InternalName": "TriadBuddyAuto",
-    "AssemblyVersion": "0.3.0.1",
+    "AssemblyVersion": "1.0.0.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/J1ntttao/FFXIVDalamudPlugins",
