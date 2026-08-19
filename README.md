@@ -28,7 +28,6 @@ https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/pluginmast
 - 作者：`J1ntttao`
 - Dalamud API：`15`
 - Triad Buddy：`1.15.0.1`
-- 源码：[J1ntttao/FFXIV_TriadBuddyAuto](https://github.com/J1ntttao/FFXIV_TriadBuddyAuto)
 - Bug 反馈：`qq2379873505@163.com`
 
 主要功能：
@@ -40,7 +39,6 @@ https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/pluginmast
 - 支持观察模式、动作稳定检查和 `Pause` 紧急停止。
 - Triad Buddy 检测到 PVP 对战时同步状态且不接管对局。
 - 幻卡棋盘显示期间自动保持完整插件窗口打开。
-- 支持显示累计下载请求数和用户自愿参与的匿名在线人数。
 
 插件不会主动寻找 NPC 或发起第一次挑战，仅接管 NPC 幻卡对局。
 
