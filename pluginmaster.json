@@ -35,6 +35,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/J1ntttao/FFXIV_BetterFakeName",
+	"IconUrl": "https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/plugins/FFXIVBetterFakeName/icon.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/plugins/FFXIVBetterFakeName/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/plugins/FFXIVBetterFakeName/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/plugins/FFXIVBetterFakeName/latest.zip",
