@@ -24,5 +24,31 @@
 	  "自动幻卡",
 	  "万卡归宗"
     ]
+  },
+  {
+    "Author": "J1ntttao",
+    "Name": "Better Fake Name",
+    "Punchline": "自定义原生 UI 中的玩家姓名、称号、部队简称和区服。",
+    "Description": "按角色真实姓名与所属服务器建立独立映射，在原生 UI 和新聊天中替换、保留或隐藏玩家姓名；姓名板部队简称、头顶及角色面板称号、右上角及冒险者铭牌区服也可独立自定义。只改变本机显示，不改变玩家链接与交互身份。",
+    "InternalName": "FFXIVBetterFakeName",
+    "AssemblyVersion": "1.3.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/J1ntttao/FFXIV_BetterFakeName",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/plugins/FFXIVBetterFakeName/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/plugins/FFXIVBetterFakeName/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/plugins/FFXIVBetterFakeName/latest.zip",
+    "FeedbackMessage": "Bug 反馈：qq2379873505@163.com",
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "Tags": [
+      "nameplate",
+      "chat",
+      "ui",
+      "privacy",
+	  "姓名板",
+	  "假名"
+    ]
   }
 ]

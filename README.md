@@ -43,6 +43,22 @@ https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/pluginmast
 
 插件不会主动寻找 NPC 或发起第一次挑战，仅接管 NPC 幻卡对局。
 
+### Better Fake Name
+
+- 当前版本：`1.3.0.0`
+- 作者：`J1ntttao`
+- Dalamud API：`15`
+- 源码：[J1ntttao/FFXIV_BetterFakeName](https://github.com/J1ntttao/FFXIV_BetterFakeName)
+- Bug 反馈：`qq2379873505@163.com`
+
+主要功能：
+
+- 自定义原生 UI 中的玩家姓名、称号、部队简称和区服。
+- 支持从当前目标或手动输入快速添加映射。
+- 支持配置导入导出，方便备份和迁移。
+
+插件只改变本机显示，不修改服务端资料、游戏对象、网络数据或玩家链接中的真实身份。
+
 ## 免责声明
 
 本仓库中的插件均为第三方工具，与 Square Enix 和 Dalamud 官方无关。第三方插件及自动操作可能违反游戏服务条款，请自行评估并承担使用风险。
