@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/pluginmast
 
 ### Better Fake Name
 
-- 当前版本：`1.3.0.0`
+- 当前版本：`1.3.1.0`
 - 作者：`J1ntttao`
 - Dalamud API：`15`
 - Bug 反馈：`qq2379873505@163.com`
